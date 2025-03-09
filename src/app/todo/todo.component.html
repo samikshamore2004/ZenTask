@@ -1,0 +1,15 @@
+<p>todo works!</p>
+<div>
+    <h2>Todo List</h2>
+    <input [(ngModel)]="newTask" placeholder="Add a new task" />
+    <button (click)="addTask()">Add Task</button>
+    
+    <ul>
+      <li *ngFor="let task of tasks">
+        <span *ngIf="task.status === 'pending'">{{ task.name }}</span>
+        <span *ngIf="task.status === 'completed'"><del>{{ task.name }}</del></span>
+        <button (click)="toggleTaskStatus(task)">Toggle</button>
+        <button (click)="removeTask(task)">Remove</button>
+      </li>
+    </ul>
+  </div>
