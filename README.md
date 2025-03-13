@@ -22,7 +22,7 @@ ng serve
 ---
 
 ## 🖼️ Screenshots 
-![Screenshot 1](images/Image1.png)  
-![Screenshot 2](images/Image3.png) 
-![Screenshot 2](images/Image4.png) 
-![Screenshot 2](images/Image5.png) 
+![Screenshot 1](screenshots/Image-1.png)  
+![Screenshot 2](screenshots/Image-3.png) 
+![Screenshot 2](screenshots/Image-4.png) 
+![Screenshot 2](screenshots/Image-5.png.) 
