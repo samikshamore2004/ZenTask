@@ -25,4 +25,4 @@ ng serve
 ![Screenshot 1](screenshots/Image-1.png)  
 ![Screenshot 2](screenshots/Image-3.png) 
 ![Screenshot 2](screenshots/Image-4.png) 
-![Screenshot 2](screenshots/Image-5.png.) 
+![Screenshot 2](screenshots/Image-5.png) 
